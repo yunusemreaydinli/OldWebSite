@@ -1,1 +1,1 @@
-## [Siteyi ziyaret et!](https://www.yunusemreaydinli.github.io)
+## [Siteyi ziyaret et!](https://yunusemreaydinli.github.io/)
