@@ -1,14 +1,7 @@
-/*
-    Theme Name: Maundy
-    Theme URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
-
 body {
 	line-height: 1.2;
     height: 100%;
-    background: #ffffff url('../img/dag.jpg') no-repeat center top;
+    background: #ffffff url('../img/Tema') no-repeat center top;
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     justify-content: center;
@@ -28,10 +21,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/**********************************
-***********************************/
-/**********************************
-***********************************/
+
 .content
 {
 	/*margin-top: 50px;*/
@@ -295,9 +285,7 @@ h2.subs-title  {
 {
     padding-left: 30px;
 }
-/**********************************
-Media Queries
-***********************************/
+
 @media (min-width: 501px) and (max-width: 901px) {
     .contact-title{
         padding: 15px;
