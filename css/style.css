@@ -1,7 +1,7 @@
 body {
 	line-height: 1.2;
     height: 100%;
-    background: #ffffff url('../img/Tema') no-repeat center top;
+    background: #ffffff url('../img/Tema.png') no-repeat center top;
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     justify-content: center;
