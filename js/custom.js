@@ -1,13 +1,13 @@
 (function ($) {
     
-    // Init Wow
+    // Init
     wow = new WOW( {
         animateClass: 'animated',
         offset:       100
     });
     wow.init();
     
-    // Countdown
+    // Geri sayım
     if ($('#countdown').length) { 
         $('#countdown').countdown({
             render: function(data) {
